@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mlaW0hLl9JKZpMazmRAC8boMT5iXZGU/D0wu1OzHRrKAbPhsvZccJehtAo24bTn6dDUJE+Ua0Zx0KDlkxkqJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DUY HIEN\\source\\repos\\Ninja.ModuleDemo\\NinjaDomain.Class\\NinjaDomain.Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
